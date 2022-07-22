@@ -1,0 +1,76 @@
+body{
+    background-color: black;
+    font-family: 'Raleway', sans-serif;
+    margin: 0%;
+    color: #FFFFFF;
+}
+header h1{
+    text-align: center;
+    /*color: white;*/
+    background-color: black;
+    margin: 0%;
+    height: 70px;
+    font-size: 50px;
+    
+}
+header img{
+    width: 100%;
+    margin: 0%;
+}
+
+section{
+    padding: 40px 0px;
+}
+
+.feature{
+    width: 1100px;
+    margin: auto;
+}
+.description div{
+    width: 35%;
+    float: left;
+    font-size:16px ;
+    padding-left: 200px;
+}
+.description img{
+    width: 400px;
+    padding-left: 150px;
+}
+.feature{
+    text-align: center;
+}
+
+.container{
+    background-color: #1E1A13;
+    padding: 10px;
+}
+h2{
+    font-size: 40px;
+    text-transform: uppercase;
+    padding: 20px;
+}
+.icono{
+    width: 18%;
+    display: inline-block;
+    font-size: 25px;
+    padding: 20px;
+}
+.iguanas{
+    text-align: center;
+}
+.iguanas img{
+    padding: 80px 0px;
+    padding-left: 35px;
+    width: 30%;
+    display: inline-block;
+    object-fit: cover;
+    height: 300px;
+}
+
+footer{
+    text-align: center;
+    background-color: #1E1A13;
+    padding: 45px 0px;
+    font-size: 25px;
+    font-weight: 300;
+}
